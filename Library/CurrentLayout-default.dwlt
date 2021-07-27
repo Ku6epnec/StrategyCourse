@@ -102,7 +102,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 125
+  controlID: 132
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -195,8 +195,8 @@ MonoBehaviour:
     y: 0
     width: 465
     height: 947
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 11}
   m_Panes:
   - {fileID: 11}
@@ -221,8 +221,8 @@ MonoBehaviour:
     y: 0
     width: 386
     height: 417
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -329,22 +329,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts/UserControlSystem/UI/Presenter
+    - Assets/Scripts/Abstractions
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts/UserControlSystem/UI/Presenter
+  - Assets/Scripts/Abstractions
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Unity\Strategy
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 204b0000
-    m_LastClickedID: 19232
-    m_ExpandedIDs: 000000004c4100004e410000504100005241000054410000ee4100001a4b0000
+    m_SelectedIDs: 1a420000
+    m_LastClickedID: 16922
+    m_ExpandedIDs: 00000000784100007a4100007c4100007e410000804100008241000084410000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -372,7 +372,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004c4100004e410000504100005241000054410000
+    m_ExpandedIDs: 00000000784100007a4100007c4100007e410000804100008241000084410000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -661,9 +661,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: c63c0000
-      m_LastClickedID: 15558
-      m_ExpandedIDs: 52fbffffc83c000060400000
+      m_SelectedIDs: 6c0c0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 34fbffff8a4000008e400000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
