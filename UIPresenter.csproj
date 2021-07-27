@@ -57,8 +57,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\UserControlSystem\UI\Presenter\MouseInteractionsPresenter.cs" />
-    <Compile Include="Assets\Scripts\UserControlSystem\UI\Presenter\BottomLefPresenter.cs" />
+    <Compile Include="Assets\Scripts\UserControlSystem\UI\Presenter\OutlineSelectorPresenter.cs" />
     <Compile Include="Assets\Scripts\UserControlSystem\UI\Presenter\SelectedLine.cs" />
+    <Compile Include="Assets\Scripts\UserControlSystem\UI\Presenter\BottomLefPresenter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Scripts\UserControlSystem\UI\Presenter\UIPresenter.asmdef" />
@@ -684,6 +685,10 @@
     <ProjectReference Include="UIModel.csproj">
       <Project>{576FB835-71E9-C313-0C80-CCA92A7D2693}</Project>
       <Name>UIModel</Name>
+    </ProjectReference>
+    <ProjectReference Include="UIView.csproj">
+      <Project>{0E289D2E-4627-DECC-CC29-74491D28020F}</Project>
+      <Name>UIView</Name>
     </ProjectReference>
     <ProjectReference Include="Abstractions.csproj">
       <Project>{1C3F8595-E5AF-1903-76E3-15BA29D1F3B2}</Project>
