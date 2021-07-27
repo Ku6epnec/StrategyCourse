@@ -58,6 +58,14 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Abstractions\IUnitProducer.cs" />
     <Compile Include="Assets\Scripts\Abstractions\ISelecatable.cs" />
+    <Compile Include="Assets\Scripts\Abstractions\IAttackCommand.cs" />
+    <Compile Include="Assets\Scripts\Abstractions\ICommand.cs" />
+    <Compile Include="Assets\Scripts\Abstractions\IPatrolCommand.cs" />
+    <Compile Include="Assets\Scripts\Abstractions\CommandExecutorBaseT.cs" />
+    <Compile Include="Assets\Scripts\Abstractions\IStopCommand.cs" />
+    <Compile Include="Assets\Scripts\Abstractions\IMoveCommand.cs" />
+    <Compile Include="Assets\Scripts\Abstractions\IProduceUnitCommand.cs" />
+    <Compile Include="Assets\Scripts\Abstractions\ICommandExecutor.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Scripts\Abstractions\Abstractions.asmdef" />
